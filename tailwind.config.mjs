@@ -10,6 +10,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        gold: '#FFD700', // Use the desired shade of gold
       },
     },
   },
