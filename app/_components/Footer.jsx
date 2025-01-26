@@ -23,8 +23,8 @@ function Footer() {
               <h4 className="font-semibold mb-4 text-blue-600">Contact</h4>
               <ul className="space-y-2">
                 <li>Email: info@xenith.com</li>
-                <li>Phone: (123) 456-7890</li>
-                <li>Address: City, Country</li>
+                <li>Phone: +91 9229756237</li>
+                <li>Address: BIT Mesra , Ranchi</li>
               </ul>
             </div>
             <div>
