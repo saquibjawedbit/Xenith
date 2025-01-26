@@ -25,7 +25,7 @@ function page() {
               </div>
               <div className="flex items-center text-gray-300">
                 <Users className="w-5 h-5 text-blue-500 mr-3" />
-                +1 (555) 123-4567
+                +91 9229756237
               </div>
             </div>
           </div>
